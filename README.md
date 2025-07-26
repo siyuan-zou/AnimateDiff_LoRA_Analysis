@@ -1,4 +1,4 @@
-# CSC 52002 Code 
+# AnimateDiff LoRA Combination Sensitivity and Generation Quality Analysis
 
 #### Files named by Camera_..., ..._analysis, motion estimation and DLOW... are used for sensitivity part, with other reducing methods and utils.
 

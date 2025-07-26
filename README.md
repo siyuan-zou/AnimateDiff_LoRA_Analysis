@@ -5,3 +5,6 @@
 #### Quality_evaluate.py is for generic video generation quality measurement, with preliminary_test as basic functions test and some trials.
 
 #### Sensitivity results in "output_pics", quality results in "quality results".
+
+Contributer:
+Yingwei T.
